@@ -6,6 +6,7 @@
     <string name="main_hungry">I\'m so hungry!</string>
     <string name="main_full">I\'m so full!</string>
     <string name="main_button">Eat Cookie</string>
+    <string name="content_description">A teddy Android toy with a cookie</string>
     <!-- Main layout Strings End -->
 
 </resources>
